@@ -3,7 +3,6 @@
 Welcome to a project built with curiosity, passion, and a love for learning.  
 This is not just code — it’s a step toward understanding how data and AI can help us see patterns in the stock market.
 
-#### Example Output
 The model predicts stock prices and shows them compared to actual values on a graph.
 ![Output](OutPut.gif)
 
